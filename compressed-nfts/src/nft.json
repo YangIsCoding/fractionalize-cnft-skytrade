@@ -1,0 +1,16 @@
+{
+  "name": "My NFT",
+  "symbol": "MN",
+  "description": "My NFT Description",
+  "image": "https://lycozm33rkk5ozjqldiuzc6drazmdp5d5g3g7foh3gz6rz5zp7va.arweave.net/XgTss3uKlddlMFjRTIvDiDLBv6Pptm-Vx9mz6Oe5f-o",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "transparent"
+    },
+    {
+      "trait_type": "Shape",
+      "value": "sphere"
+    }
+  ]
+}
